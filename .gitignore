@@ -1,0 +1,6 @@
+.DS_Store
+bower_components/
+*.class
+package-lock.json
+
+*.swp
